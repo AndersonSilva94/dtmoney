@@ -10,6 +10,8 @@
 
 <h2>O que será desenvolvido?</h2>
 
+![Captura de tela de 2021-12-28 18-41-56](https://user-images.githubusercontent.com/52717632/147613489-f7102b48-f0f9-412f-9a3f-3fa02d731a1d.png)
+
 * Aplicação Web que cadastra entrada e despesas do usuário e retorna o valor com base no salário total. Ainda é possível a data de criação de cada inserção e a categoria a que pertence.
 
 <h2>Instruções para clonar o repositório</h2>
