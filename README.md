@@ -1,7 +1,4 @@
-<div width="100%">
-
-  ![572277](https://user-images.githubusercontent.com/52717632/122947299-0cc0cc80-d348-11eb-94fb-6bd0bf906183.jpeg)
-</div>
+<img src="https://user-images.githubusercontent.com/52717632/122947299-0cc0cc80-d348-11eb-94fb-6bd0bf906183.jpeg" width="100%" />
 
 <h1>Projeto Dtmoney :rocket:</h1>
 
