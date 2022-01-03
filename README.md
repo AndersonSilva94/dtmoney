@@ -4,6 +4,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndersonSilva94/dtmoney?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/AndersonSilva94/dtmoney?style=for-the-badge)
+![License](https://img.shields.io/github/license/AndersonSilva94/dtmoney?style=for-the-badge)
 
 <h2>O que será desenvolvido?</h2>
 
@@ -25,12 +26,20 @@
 
 3. Instale as dependências:
   ```bash
-    $ npm install || yarn
+    $ yarn
+  ```
+  ou
+  ```bash
+    $ npm install
   ```
 
 4. Inicialize o projeto:
   ```bash
-    $ npm start || yarn start
+    $ yarn start
+  ```
+  ou
+  ```bash
+    $ npm start
   ```
 
 <h2>Tecnologias utilizadas na construção do projeto</h2>
@@ -41,6 +50,10 @@
 - Styled Components
 - Axios
 - MirageJs
+
+<h2>Licença</h2>
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
